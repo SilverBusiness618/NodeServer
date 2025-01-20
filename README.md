@@ -69,3 +69,4 @@ Parameters: { "weight": 180 }
 ```
 DELETE /api/weight/:date
 ```
+This is change.
